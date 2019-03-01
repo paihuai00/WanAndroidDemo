@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dialog_bg">#ffffff</color>
+    <color name="dialog_bg_press">#f0f0f0</color>
+
+    <color name="dialog_confirm">#007aff</color>
+    <color name="dialog_cancel">#f44336</color>
+
+    <color name="dialog_line">#2c000000</color>
+
+
+    <color name="XFrame_darker_gray">#aaaaaa</color>
+    <color name="XFrame_white">#ffffff</color>
+    <color name="XFrame_text_gray">#8a8a8a</color>
+
+    <color name="color_EEEEEE">#EEEEEE</color>
+    <color name="white">#ffffff</color>
+</resources>
